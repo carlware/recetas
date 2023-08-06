@@ -2,15 +2,16 @@
 
 ### ingredientes
 
-| No. | Cantidad  | Ingrediente |
-| 1   | 400gr     | garbanzos cocidos (preferentemnet sin piel) |
-| 2   | 50gr      | cebolla |
-| 3   | 10gr      | ajo |
-| 4   | 2         | limones |
-| 5   | al gusto  | sal |
-| 6   | al gusto  | especies |
-| 7   | 3tsp      | aceite de oliva |
-| 8   | 50ml      | agua fria |
+| No.      | Cantidad | Ingrediente                                 |
+|:---------|:---------|:--------------------------------------------|
+| 1        | 400 gr   | garbanzos cocidos (preferentemnet sin piel) |
+| 2        | 50 gr    | cebolla                                     |
+| 3        | 10 gr    | ajo                                         |
+| 4        | 2        | limones                                     |
+| 5        | al gusto | sal                                         |
+| 6        | al gusto | especies                                    |
+| 7        | 3 tbsp   | aceite de oliva                             |
+| 8        | 50ml     | agua fria                                   |
 
 
 ### preparación
